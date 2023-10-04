@@ -2,3 +2,8 @@
 2. Cài đặt các package python (chạy các câu lệnh sau trong command prompt):
 + pip install django
 + pip install mysql-connector-python
+
+3. Các file giao diện html css được thiết kế trước khi đưa vào project trong folder UI UX
+4. Folder chứa project là webbanhang (cái ở ngoài)
+5. Để chạy thử proj, chạy command sau (nhớ đưa terminal vào folder webbanhang (cái ở ngoài)) :
+python manage.py runserver 
