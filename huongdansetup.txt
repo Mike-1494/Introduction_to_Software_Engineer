@@ -1,0 +1,4 @@
+1. Cài đặt Python (recommend phiên bản 3.10.x)
+2. Cài đặt các package python (chạy các câu lệnh sau trong command prompt):
++ pip install django
++ pip install mysql-connector-python
