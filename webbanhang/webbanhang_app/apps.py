@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class WebbanghangAppConfig(AppConfig):
+class WebbanhangAppConfig(AppConfig):
     default_auto_field = "django.db.models.BigAutoField"
-    name = "webbanghang_app"
+    name = "webbanhang_app"
